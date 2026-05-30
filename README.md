@@ -13,8 +13,8 @@ A simple and responsive Sticky Notes web application built using **HTML, CSS, an
 ## Preview
 
 
-![Sticky Notes Application Screenshot](<img width="1919" height="1097" alt="Screenshot 2026-05-30 234114" src="https://github.com/user-attachments/assets/1ae8b224-393a-4daa-9dcc-33b66d1b00a1" />
-)
+<img width="1919" height="1097" alt="Screenshot 2026-05-30 234114" src="https://github.com/user-attachments/assets/1ae8b224-393a-4daa-9dcc-33b66d1b00a1" />
+
 
 ## Technologies Used
 
